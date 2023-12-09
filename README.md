@@ -7,7 +7,7 @@ sudo apt -y update && apt -y upgrade
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/altairsm/sactudo.git install_whaticket && sudo chmod -R 777 sactudo  && cd sactudo  && sudo ./sactudo_instal
+sudo apt install -y git && git clone https://github.com/altairsm/sactudo.git install_sactudo && sudo chmod -R 777 sactudo  && cd sactudo  && sudo ./sactudo_instal
 ```
 
 ## Requisitos
